@@ -9,6 +9,13 @@
       "position": 2,
       "children": [
         {
+          "type": "link",
+          "slug": "features/test-child-page",
+          "title": "Test child page",
+          "id": "x6j7a74fe",
+          "children": []
+        },
+        {
           "type": "group",
           "slug": "features/windows-3",
           "title": "Windows",
